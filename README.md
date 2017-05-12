@@ -1,3 +1,3 @@
 # hello-world
-hello wpr;d
+hello world
 I've been Planky since I was 5. Everybody calls me PLanky and you should too....
